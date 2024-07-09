@@ -10,7 +10,7 @@ public class A {
 		
 		String x;
 		System.out.println("enter the name : ");
-		x=in.next();
+		x=in.nextLine();
 		
 		int eng;
 		System.out.println("enter english marks :");
